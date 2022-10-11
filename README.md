@@ -10,8 +10,7 @@ Add all the files to staging area
 
 ` git add .`
 Or you can add specific files
-
-> git add index.html
+`git add index.html`
 
 ### See all the files in the staging directory
 
